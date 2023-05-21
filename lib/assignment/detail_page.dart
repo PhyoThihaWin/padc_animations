@@ -1,10 +1,7 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:padc_animations/assignment/explicit_animation_description_title_view.dart';
 import 'package:padc_animations/assignment/explicit_animations_detal_favourite.dart';
-import 'package:padc_animations/explicit_animations_favourite.dart';
-import 'package:padc_animations/implicit_animations.dart';
+import 'package:padc_animations/tutorials/implicit_animations.dart';
 
 import 'app_constants.dart';
 

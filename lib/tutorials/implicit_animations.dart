@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:padc_animations/explicit_animations_favourite.dart';
+import 'package:padc_animations/tutorials/explicit_animations_favourite.dart';
 
 const kAnimationDuration = Duration(milliseconds: 500);
 const kAnimationDurationForScreenFadeIn = Duration(milliseconds: 1500);

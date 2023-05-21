@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:padc_animations/assignment/home_page.dart';
-import 'package:padc_animations/implicit_animations.dart';
+import 'package:padc_animations/tutorials/implicit_animations.dart';
 
 import 'assignment/detail_page.dart';
 

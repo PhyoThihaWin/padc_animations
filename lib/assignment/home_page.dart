@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:padc_animations/assignment/app_constants.dart';
 import 'package:padc_animations/assignment/detail_page.dart';
 
-import '../implicit_animations.dart';
+import '../tutorials/implicit_animations.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:padc_animations/implicit_animations.dart';
+import 'package:padc_animations/tutorials/implicit_animations.dart';
 
 class ExplicitAnimationsFavourite extends StatefulWidget {
   const ExplicitAnimationsFavourite({Key? key}) : super(key: key);

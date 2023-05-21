@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:padc_animations/implicit_animations.dart';
+import 'package:padc_animations/tutorials/implicit_animations.dart';
 
 class ExplicitAnimationsDetailFavourite extends StatefulWidget {
   const ExplicitAnimationsDetailFavourite({Key? key}) : super(key: key);

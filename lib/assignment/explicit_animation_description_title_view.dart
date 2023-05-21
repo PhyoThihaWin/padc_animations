@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import '../implicit_animations.dart';
+import '../tutorials/implicit_animations.dart';
 
 class ExplicitAnimationDescriptionTitleView extends StatefulWidget {
   final bool isCollapse;
